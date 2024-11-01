@@ -45,6 +45,7 @@ Modulação por chaveamento de frequência (FSK)
 Modulação por chaveamento de fase (PSK)
 Modulação por chaveamento de fase e amplitude (APSK ou APK)
 
-![tumb](https://github.com/user-attachments/assets/78792170-9cc2-4181-8992-d12ba9196ba9)
+![image](https://github.com/user-attachments/assets/2af707c2-5a48-4d66-88c0-7329cce9ba6a)
+
 
 [Vídeo aula no youtube com capítulos nos tempos do vídeo  descrito abaixo ⏱️](https://youtu.be/JHyi_lReENk?si=XCGvmlp4O73LzYUm)
